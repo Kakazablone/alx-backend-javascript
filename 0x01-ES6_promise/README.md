@@ -1,0 +1,1 @@
+Project on JS promises
